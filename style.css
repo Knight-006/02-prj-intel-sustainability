@@ -190,6 +190,11 @@ section div.featured:hover p {
   opacity: 1;
 }
 
+/* Show normal text for selected timeline cards */
+section div.normal-text p {
+  opacity: 1;
+}
+
 /* Centered group styling */
 section div.centered-group {
   display: flex;
